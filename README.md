@@ -1,7 +1,7 @@
 # Social_Isolation
 
 - Topic: Predicting social isolation among young people in their 20's
-- Period: Apr.01.2022 ~ Jul.02.2022
+- Period: Mar.01.2022 ~ Jul.02.2022
 - data: Korea Institute of Public Administration's Survey on Social Integration in 2021
 
 
